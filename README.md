@@ -3,7 +3,10 @@
 
 Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, and experiences through a dynamic and interactive website built using HTML, CSS, and JavaScript.
 
-![Portfolio Website Preview](pf.png)
+![p1](https://github.com/prathibharani057/Portfolio/assets/118717617/0470545e-29e8-4f0e-a881-6b707bad39b1)<br><br>
+![p2](https://github.com/prathibharani057/Portfolio/assets/118717617/20bab523-4516-40cc-8db6-311463293555)<br><br>
+![p3](https://github.com/prathibharani057/Portfolio/assets/118717617/51920c7a-e5fb-4673-9626-dd2ab4b0e1cb)<br><br>
+![p4](https://github.com/prathibharani057/Portfolio/assets/118717617/f638307d-2a2c-4de6-82b4-610bd73cae39)
 
 
 
