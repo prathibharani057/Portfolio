@@ -23,4 +23,29 @@ This portfolio website serves as a central hub to display my professional backgr
 - JavaScript : For adding interactivity and dynamic elements to the website.
 
 ## Installation
-1. Clone this repository to your local machine - 
+1. Clone this repository to your local machine using:
+   - git clone https://github.com/prathibharani057/Portfolio.git
+2. Navigate to the project directory:
+   - cd Portfolio
+
+Now you're ready to work with the project locally on your machine!
+
+
+## Usage
+1. Open the project folder in your preferred code editor.
+2. Customize the content of the HTML files (`index.html`, `about.html`, `projects.html`, etc.) to match your personal information and projects.
+3. Modify the CSS in the `styles.css` file to tailor the design to your preferences.
+4. Enhance interactivity by editing the JavaScript in the `script.js` file.
+5. Replace `preview.png` with an image preview of your portfolio website.
+
+## Contributions
+Contributions to enhance the functionality, design, or fix issues are welcome.
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+##
+**Author:** PRATHIBHARANI
+
+__Happy Coding!!__
+
