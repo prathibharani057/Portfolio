@@ -48,7 +48,6 @@ Contributions to enhance the functionality, design, or fix issues are welcome.
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ##
-**Author:** PRATHIBHARANI
 
 __Happy Coding!!__
 
